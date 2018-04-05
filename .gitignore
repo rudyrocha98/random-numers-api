@@ -1,6 +1,10 @@
-# directorios
+# folders
 node_modules/
 randomevenodd-app/
+
+# development-files
+server.js
+.babelrc
 
 # misc
 yarn.lock
