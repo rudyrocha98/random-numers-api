@@ -1,3 +1,6 @@
+# directorios
 node_modules/
-
 randomevenodd-app/
+
+# misc
+yarn.lock
